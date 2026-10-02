@@ -36,3 +36,7 @@ Clear visual hierarchy with the IP address as the focal point
 Responsive grid for location details
 Accessible color contrast
 Loading and error states for better UX
+
+---
+
+Built by Girish Lade — https://ladestack.in
